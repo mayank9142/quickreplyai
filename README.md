@@ -1,7 +1,7 @@
 # ⚡ QuickReply AI
 
 QuickReply AI is a smart, responsive web app that generates intelligent replies to messages and emails using **Gemini 1.5 Flash**. Paste a message, select a tone (formal or casual), and instantly get a polished, context-aware reply.
-
+https://quickreplyai.netlify.app/
 ---
 
 ## 🚀 Features
